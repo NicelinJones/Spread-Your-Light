@@ -22,7 +22,7 @@ flex-direction: row;
 header p{
   margin:auto;
    text-align: center;
-    color:black;
+    color:white;
     font-size: 20px;
     font-weight: bold;
   
@@ -63,9 +63,7 @@ header p{
   div {
       width: 100%;
    }
-   
-
-  .box img{
+.box img{
   margin-left: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
